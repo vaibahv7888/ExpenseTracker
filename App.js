@@ -5,7 +5,6 @@ import AddTransaction from './src/Screens/AddTransaction/AddTransaction';
 import { GlobalProvider } from './src/Screens/HomeScreen/Context/GlobalState';
 import { NavigationContainer } from '@react-navigation/native';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
-// import AddTransactions from './src/Screens/HomeScreen/Components/AddTransactions';
 
 
 const Stack = createNativeStackNavigator();
