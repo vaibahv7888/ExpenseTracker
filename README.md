@@ -14,3 +14,5 @@ npx expo start
 - [ES7+ React/Redux/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
 
 |                              Home                               |                             Add Transaction                             |                   
+| :-------------------------------------------------------------: | :-----------------------------------------------------------------: |
+| <img src="assets/screenshots/Home.jpeg" width="200"> | <img src="assets/screenshots/AddTransaction.PNG" width="200"> |
